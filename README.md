@@ -1,7 +1,5 @@
 #  Fitfolio — Smart Wardrobe Manager
 
-![Fitfolio Banner](file:///C:/Users/EYAD/.gemini/antigravity/brain/bd233636-20e7-4edc-b754-700c76d62302/cabinet_final_test_1779650011686.webp)
-
 **Fitfolio** is a premium, high-aesthetic wardrobe management platform designed to help you curate, schedule, and discover fashion with ease. Built with a focus on immersive UX and smooth interactions, Fitfolio transforms your digital closet into a dynamic fashion hub.
 
 ---
